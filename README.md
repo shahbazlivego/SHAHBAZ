@@ -1,2 +1,3 @@
-# SHAHBAZ
-Official SHAHBAZ Platform
+# 🦅 SHAHBAZ Platform
+A futuristic all-in-one platform for global social networking, earning, job promotions, live chat, video calls, and more.
+...
