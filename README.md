@@ -57,45 +57,14 @@ npm install
 npm run dev
 
 # Visit: http://localhost:3000
-```
-
 ---
-
-## 🚀 Deployment
-
-### Vercel (Recommended)
-1. Push this repo to GitHub
-2. Go to [vercel.com](https://vercel.com) and import your repo
-3. Use default settings:
-   - Build: `npm run build`
-   - Output: `.next`
-4. Click Deploy
-
-Your site will be live shortly!
-
----
-
-## 📸 Screenshots (Optional)
-
-_Add screenshots or demo link here if available_
-
----
-
 ## 🤝 License
 
 MIT License — open for public use, with attribution to the original developer.
-
 ---
-
 ## 🙌 Credits
-
 Built with ❤️ by Muhammad Shahbaz Aslam Mughal  
 Inspired by the needs of village **Jahman**, near the India-Pakistan border.
-
 ---
-
 ## 🔗 Connect
-
 Want to contribute or collaborate? Open an issue or contact the creator.
-
-
