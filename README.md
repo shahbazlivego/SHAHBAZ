@@ -1,5 +1,3 @@
-# 
-[README_SHAHBAZ.md](https://github.com/user-attachments/files/21596229/README_SHAHBAZ.md)
 # SHAHBAZ🦅
 
 SHAHBAZ is a modern, modular, AI-powered platform designed to digitally empower rural and urban communities by integrating tools for communication, job creation, education, and local governance.
